@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+table{
+    padding: 10px;
+    background-color: lightskyblue;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-top: 40px;
+    box-shadow: 4px 10px 10px 1px lightslategrey;
+}
+th,td{
+    padding: 10px;
+    font-size: 23px;
+}
